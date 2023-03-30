@@ -1,10 +1,10 @@
-.section__BlockButtons {
+.buttons__blockButton {
     display: flex;
     justify-content: center;
 }
 
 @media (max-width:550px) {
-    .section__BlockButtons {
+    .buttons__blockButton {
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 10px;
@@ -13,7 +13,7 @@
 }
 
 
-.section__button {
+.buttons {
     border: none;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 128, 128);
@@ -23,12 +23,12 @@
 
 }
 
-.section__button:hover {
+.buttons:hover {
     color: rgba(0, 128, 128, 0.485);
 
 }
 
-.section__button:disabled {
+.buttons:disabled {
     color: rgb(166, 166, 166);
 
 }
