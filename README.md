@@ -1,6 +1,7 @@
 # Task list React
 
 It's recreated task list project in react. Site doesn't have any functionality yet.
+DEMO: https://blaszks.github.io/todo-list-react/
 
 # Getting Started with Create React App
 
