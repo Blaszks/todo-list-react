@@ -1,11 +1,24 @@
 # Task list React
 
-It's recreated task list project in react. Site doesn't have any functionality yet.
+This is recreated task list project in react.
 DEMO: https://blaszks.github.io/todo-list-react/
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Demo screen:
+![Demo screen](https://i.ibb.co/cv3dt6M/Demo-screen.jpg)
+
+# Used technologies
+- React.js
+- Node.js
+- JavaScript ES6+
+- HTML
+- CSS
+- Normalize.css
+- BEM convention
+- useState
 
 ## Available Scripts
 
